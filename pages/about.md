@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="1908-the-latter-day-saints-psalmody-a-collection-of-original-and-selected-tunes" %}
 
 {% include feature/nav-menu.html sections="About the Collection;Historical Overview" %}
 
