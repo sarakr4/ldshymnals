@@ -1,14 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date,Date,
 description,Description,
 subject,Subjects,true
+publisher,Publisher
 location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+collection,Collection,
+source,Source,,true
 identifier,Source Identifier,,
+hymnal,Hymnal
+edition,Edition
+songs,Number of Songs
 type,Type,
 format,Format,
 rights,Rights,
