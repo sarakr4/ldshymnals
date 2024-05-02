@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This collection gathers all digitized English hymnals of the Church of Jesus Christ of Latter-Day Saints (LDS) into one place, as far as copyright and public domain laws will permit. This is part of a larger project to document, compare, and analyze changes in LDS hymnals throughout its history.
+This unofficial collection gathers all digitized English hymnals of the Church of Jesus Christ of Latter-Day Saints (LDS) into one place, as far as copyright and public domain laws will permit. This is part of a larger project to document, compare, and analyze changes in LDS hymnals throughout its history.
 
 ## Historical Overview
 
