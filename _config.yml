@@ -22,10 +22,10 @@ source-code: https://github.com/sarakr4/ldshymnals/
 # title of site appears in banner
 title: LDS Hymnals Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An unofficial digital collection of hymnals of the Church of Jesus Christ of Latter-Day Saints
+tagline: An digital collection of hymnals of the Church of Jesus Christ of Latter-Day Saints
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a digital library collecting and documenting the published English hymnals used by members of the Church of Jesus Christ of Latter-Day Saints as well as any subsequent editions."
+description: "This is an unofficial digital library collecting and documenting the published English hymnals used by members of the Church of Jesus Christ of Latter-Day Saints as well as any subsequent editions."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: sarakr4
 
